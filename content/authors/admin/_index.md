@@ -109,7 +109,7 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
   - icon: arxiv
-    link: https://drive.google.com/file/d/1N4j5kt6-Czhfftvk3kpF3wRPROiyNI7W/view?usp=sharing
+    link: https://drive.google.com/file/d/14Syp6avRBxrP-QIgHnKoAdJD3j0wBrXh/view?usp=sharing
 
 
 # Highlight the author in author lists? (true/false)
@@ -118,7 +118,7 @@ highlight_name: true
 
 I'm Mohammad Alameen, an Artifical Intelligence graduate from Faculty of computers and Artifical Intellignce at Cairo University, Egypt. Currently, I am working as an AI Engineer at [Inspire for Solutions Developments](https://www.linkedin.com/company/inspire-for-solutions-development/) since Novembre 2023. 
 
-My areas of interest include Deep Learning, Computer Vision, NLP, and Multi-Modal Systems. **My GPA is 3.65**, and I was ranked **5** at my department.
+My areas of interest include Deep Learning, Computer Vision, NLP, and Multi-Modal Systems. **My GPA is 3.65**, and I was ranked **5** at my department and **1** among international students at the faculty.
 
 <!-- All my academic documents can be find through the following link: [Academic Documents](https://drive.google.com/drive/folders/1J1sr18AcUmAz6W3MrIkWJ2xpWHlXXjSp?usp=sharing) -->
 
