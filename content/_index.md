@@ -78,7 +78,7 @@ sections:
         - title: Machine Learning Researcher
           company:  NajahNow
           company_url: 'https://najahnow.net/'
-          company_logo: astute_imaging_logo
+          company_logo: najah_now_logo
           location: Cairo, Egypt
           date_start: '2022-08-01'
           date_end: '2022-10-01'
