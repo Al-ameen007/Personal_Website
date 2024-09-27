@@ -99,7 +99,7 @@ social:
     icon_pack: fab
     link: https://github.com/al-ameen007
 
-  - icon: assets\media\icons\custom\kaggle.svg
+  - icon: "custom\kaggle.svg"
     icon_pack: fab
     link: https://www.kaggle.com/mohammadartan
 
