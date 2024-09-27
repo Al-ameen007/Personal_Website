@@ -176,11 +176,10 @@ sections:
           tag: Computer Vision
         - name: NLP
           tag: NLP
-        - name: MuliModal
-          tag: MuliModal
+        - name: MultiModal
+          tag: MultiModal
         - name: Deep Learning
           tag: Deep Learning
-          tag: BCI
 
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
