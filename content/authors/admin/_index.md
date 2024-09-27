@@ -99,6 +99,10 @@ social:
     icon_pack: fab
     link: https://github.com/al-ameen007
 
+  - icon: Kaggle
+    icon_pack: fab
+    link: https://www.kaggle.com/mohammadartan
+
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/mohammad-alameen
