@@ -19,7 +19,7 @@ links:
   #   name: Follow
   #   url: https://github.com/Yasien99/GI-Tract-Image-Segmentation
 url_code: 'https://github.com/Al-ameen007/Visual-Question-Answering'
-url_pdf: 'static\uploads\report.pdf'
+url_pdf: 'uploads/report.pdf'
 url_slides: ''
 url_video: ''
 
